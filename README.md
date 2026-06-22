@@ -36,7 +36,7 @@ Year-over-year comparison table
 Executive summary visuals for board presentation
 
 
-Tools Used
+Tools Used:
 
 Power BI Desktop
 Microsoft Excel (data cleaning and preparation)
